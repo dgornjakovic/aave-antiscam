@@ -1,0 +1,81 @@
+{
+  "team": {
+    "members": [
+      {
+        "name": "Troy | BarnBridge",
+        "id": "222767769085542402",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Tyler | BarnBridge",
+        "id": "403763394920054795",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Bogdan G | BarnBridge",
+        "id": "559760863632949260",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Casian | BarnBridge",
+        "id": "386054389250654208",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Johannes | Atpar",
+        "id": "342387053562167308",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Nils | Atpar",
+        "id": "633768470387097601",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Aave Stani",
+        "id": "604982965193146378",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Santiago | ParaFi",
+        "id": "580034326725525510",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Pavlo | Proof Systems",
+        "id": "559434142505238537",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Aaron | Centrality\n",
+        "id": "753485824494141532",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Denis | BarnBridge",
+        "id": "427542112582631424",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Dragos | BarnBridge",
+        "id": "316961708985942018",
+        "avatar": "test.png"
+      },
+      {
+        "name": "keegs",
+        "id": "349776470622601216",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Liviu | BarnBridge",
+        "id": "739741065090957321",
+        "avatar": "test.png"
+      },
+      {
+        "name": "Milad | BarnBridge",
+        "id": "402187058572951562",
+        "avatar": "test.png"
+      }
+    ]
+  }
+}
